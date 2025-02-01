@@ -3,9 +3,9 @@
     "tokens/**/*.json"
   ],
   "platforms": {
-    "css": {
+    "web/css": {
       "transformGroup": "web",
-      "buildPath": "build/css/",
+      "buildPath": "build/web/css/",
       "files": [
         {
           "destination": "variables.css",
@@ -13,9 +13,9 @@
         }
       ]
     },
-    "scss": {
+    "web/scss": {
       "transformGroup": "scss",
-      "buildPath": "build/scss/",
+      "buildPath": "build/web/scss/",
       "files": [
         {
           "destination": "_variables.scss",
@@ -23,9 +23,9 @@
         }
       ]
     },
-    "js": {
+    "web/js": {
       "transformGroup": "js",
-      "buildPath": "build/js/",
+      "buildPath": "build/web/js/",
       "files": [
         {
           "destination": "tokens.js",
