@@ -1,17 +1,6 @@
 {
   "typography": {
-    "Display L 900": {
-      "value": {
-        "fontSize": "61px",
-        "lineHeight": "1.2",
-        "fontWeight": 900,
-        "letterSpacing": "-0.02em",
-        "scaleStep": "f6"
-      },
-      "type": "typography",
-      "description": "Typography style for Display L 900"
-    },
-    "Display M 900": {
+    "Headline L 900": {
       "value": {
         "fontSize": "49px",
         "lineHeight": "1.1",
@@ -20,62 +9,29 @@
         "scaleStep": "f5"
       },
       "type": "typography",
-      "description": "Typography style for Display M 900"
-    },
-    "Display S 900": {
-      "value": {
-        "fontSize": "39px",
-        "lineHeight": "1.1",
-        "fontWeight": 900,
-        "letterSpacing": "-0.02em",
-        "scaleStep": "f4"
-      },
-      "type": "typography",
-      "description": "Typography style for Display S 900"
-    },
-    "Headline L 900": {
-      "value": {
-        "fontSize": "39px",
-        "lineHeight": "1.1",
-        "fontWeight": 900,
-        "letterSpacing": "-0.02em",
-        "scaleStep": "f4"
-      },
-      "type": "typography",
       "description": "Typography style for Headline L 900"
     },
-    "Headline M 900": {
+    "Display L 900": {
       "value": {
-        "fontSize": "31px",
+        "fontSize": "16px",
         "lineHeight": "1.1",
         "fontWeight": 900,
         "letterSpacing": "-0.02em",
-        "scaleStep": "f3"
+        "scaleStep": "f7"
       },
       "type": "typography",
-      "description": "Typography style for Headline M 900"
+      "description": "Typography style for Display L 900"
     },
-    "Title L 800": {
+    "Title": {
       "value": {
-        "fontSize": "25px",
+        "fontSize": "16px",
         "lineHeight": "1.5",
-        "fontWeight": 800,
-        "letterSpacing": "-0.02em",
-        "scaleStep": "f2"
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "scaleStep": "f0"
       },
       "type": "typography",
-      "description": "Typography style for Title L 800"
-    },
-    "Title M 800": {
-      "value": {
-        "fontSize": "20px",
-        "lineHeight": "1.5",
-        "fontWeight": 800,
-        "letterSpacing": "-0.02em",
-        "scaleStep": "f1"
-      },
-      "type": "typography",
-      "description": "Typography style for Title M 800"
+      "description": "Typography style for Title"
     },
     "Label": {
       "value": {
@@ -90,11 +46,11 @@
     },
     "Body": {
       "value": {
-        "fontSize": "13px",
+        "fontSize": "16px",
         "lineHeight": "1.5",
         "fontWeight": 400,
         "letterSpacing": "0em",
-        "scaleStep": "f-1"
+        "scaleStep": "f0"
       },
       "type": "typography",
       "description": "Typography style for Body"
