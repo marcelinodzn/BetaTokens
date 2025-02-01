@@ -1,0 +1,44 @@
+{
+  "typography": {
+    "Display (Copy)": {
+      "value": {
+        "fontSize": "61px",
+        "lineHeight": "1.1",
+        "fontWeight": 700,
+        "letterSpacing": "-0.02em",
+        "scaleStep": "f6"
+      },
+      "type": "typography"
+    },
+    "Display": {
+      "value": {
+        "fontSize": "61px",
+        "lineHeight": "1.1",
+        "fontWeight": 700,
+        "letterSpacing": "-0.02em",
+        "scaleStep": "f6"
+      },
+      "type": "typography"
+    },
+    "Heading 1": {
+      "value": {
+        "fontSize": "49px",
+        "lineHeight": "1.2",
+        "fontWeight": 700,
+        "letterSpacing": "-0.01em",
+        "scaleStep": "f5"
+      },
+      "type": "typography"
+    },
+    "Body": {
+      "value": {
+        "fontSize": "16px",
+        "lineHeight": "1.5",
+        "fontWeight": 400,
+        "letterSpacing": "0em",
+        "scaleStep": "f0"
+      },
+      "type": "typography"
+    }
+  }
+}
