@@ -1,18 +1,8 @@
 {
   "typography": {
-    "Display (Copy)": {
-      "value": {
-        "fontSize": "61px",
-        "lineHeight": "1.1",
-        "fontWeight": 700,
-        "letterSpacing": "-0.02em",
-        "scaleStep": "f6"
-      },
-      "type": "typography"
-    },
     "Display": {
       "value": {
-        "fontSize": "61px",
+        "fontSize": "69px",
         "lineHeight": "1.1",
         "fontWeight": 700,
         "letterSpacing": "-0.02em",
@@ -22,7 +12,7 @@
     },
     "Heading 1": {
       "value": {
-        "fontSize": "49px",
+        "fontSize": "55px",
         "lineHeight": "1.2",
         "fontWeight": 700,
         "letterSpacing": "-0.01em",
@@ -32,7 +22,7 @@
     },
     "Body": {
       "value": {
-        "fontSize": "16px",
+        "fontSize": "18px",
         "lineHeight": "1.5",
         "fontWeight": 400,
         "letterSpacing": "0em",
